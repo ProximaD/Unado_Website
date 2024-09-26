@@ -238,6 +238,7 @@ img {
 
 .home__description{
     color: var(--black-color);
+    font-size: var(--h2-font-size);
     font-weight: var(--font-semi-bold);
     margin-bottom: 3rem;
 }
